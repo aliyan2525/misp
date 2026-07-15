@@ -1,0 +1,721 @@
+campaign_name,metric_date,clicks,impressions,cost,conversions
+Google Ads - Campaign 1,2026-01-01,47,564,109.51,2
+Google Ads - Campaign 2,2026-01-01,49,588,80.76,2
+Meta Ads - Campaign 1,2026-01-01,54,594,157.94,4
+Meta Ads - Campaign 2,2026-01-01,52,416,26.92,1
+SEO - Campaign 1,2026-01-01,52,572,0.0,4
+SEO - Campaign 2,2026-01-01,44,572,0.0,0
+Email - Campaign 1,2026-01-01,50,500,30.81,2
+Email - Campaign 2,2026-01-01,49,637,139.92,2
+Google Ads - Campaign 1,2026-01-02,46,644,101.69,2
+Google Ads - Campaign 2,2026-01-02,52,416,48.54,1
+Meta Ads - Campaign 1,2026-01-02,53,477,95.41,2
+Meta Ads - Campaign 2,2026-01-02,49,686,138.02,3
+SEO - Campaign 1,2026-01-02,38,304,0.0,3
+SEO - Campaign 2,2026-01-02,58,812,0.0,3
+Email - Campaign 1,2026-01-02,47,376,87.27,1
+Email - Campaign 2,2026-01-02,42,336,65.46,0
+Google Ads - Campaign 1,2026-01-03,54,648,131.12,4
+Google Ads - Campaign 2,2026-01-03,53,583,139.13,1
+Meta Ads - Campaign 1,2026-01-03,36,360,47.27,1
+Meta Ads - Campaign 2,2026-01-03,45,630,65.58,2
+SEO - Campaign 1,2026-01-03,56,784,0.0,1
+SEO - Campaign 2,2026-01-03,40,400,0.0,0
+Email - Campaign 1,2026-01-03,53,689,93.89,0
+Email - Campaign 2,2026-01-03,52,624,52.4,0
+Google Ads - Campaign 1,2026-01-04,45,540,127.09,1
+Google Ads - Campaign 2,2026-01-04,39,429,40.8,3
+Meta Ads - Campaign 1,2026-01-04,51,714,139.75,3
+Meta Ads - Campaign 2,2026-01-04,45,540,22.56,3
+SEO - Campaign 1,2026-01-04,48,480,0.0,1
+SEO - Campaign 2,2026-01-04,44,352,0.0,1
+Email - Campaign 1,2026-01-04,36,504,40.22,1
+Email - Campaign 2,2026-01-04,46,368,27.24,4
+Google Ads - Campaign 1,2026-01-05,48,384,65.41,1
+Google Ads - Campaign 2,2026-01-05,41,574,121.53,2
+Meta Ads - Campaign 1,2026-01-05,56,672,129.95,2
+Meta Ads - Campaign 2,2026-01-05,53,424,38.46,0
+SEO - Campaign 1,2026-01-05,50,500,0.0,2
+SEO - Campaign 2,2026-01-05,54,540,0.0,3
+Email - Campaign 1,2026-01-05,47,658,134.01,3
+Email - Campaign 2,2026-01-05,41,574,32.13,1
+Google Ads - Campaign 1,2026-01-06,54,432,50.62,2
+Google Ads - Campaign 2,2026-01-06,60,600,71.83,2
+Meta Ads - Campaign 1,2026-01-06,56,616,39.78,3
+Meta Ads - Campaign 2,2026-01-06,52,520,39.19,4
+SEO - Campaign 1,2026-01-06,45,405,0.0,2
+SEO - Campaign 2,2026-01-06,53,424,0.0,0
+Email - Campaign 1,2026-01-06,50,700,70.81,2
+Email - Campaign 2,2026-01-06,46,598,81.51,1
+Google Ads - Campaign 1,2026-01-07,48,432,99.74,1
+Google Ads - Campaign 2,2026-01-07,53,583,141.0,2
+Meta Ads - Campaign 1,2026-01-07,45,360,95.12,5
+Meta Ads - Campaign 2,2026-01-07,49,539,132.73,0
+SEO - Campaign 1,2026-01-07,63,756,0.0,2
+SEO - Campaign 2,2026-01-07,46,368,0.0,1
+Email - Campaign 1,2026-01-07,42,378,119.3,3
+Email - Campaign 2,2026-01-07,37,518,80.58,0
+Google Ads - Campaign 1,2026-01-08,50,400,117.6,0
+Google Ads - Campaign 2,2026-01-08,54,486,67.03,3
+Meta Ads - Campaign 1,2026-01-08,50,400,124.79,0
+Meta Ads - Campaign 2,2026-01-08,48,672,130.39,1
+SEO - Campaign 1,2026-01-08,39,507,0.0,1
+SEO - Campaign 2,2026-01-08,44,616,0.0,1
+Email - Campaign 1,2026-01-08,41,451,99.42,3
+Email - Campaign 2,2026-01-08,49,637,48.31,1
+Google Ads - Campaign 1,2026-01-09,53,583,155.8,2
+Google Ads - Campaign 2,2026-01-09,49,441,55.23,4
+Meta Ads - Campaign 1,2026-01-09,58,522,88.3,4
+Meta Ads - Campaign 2,2026-01-09,49,392,36.0,2
+SEO - Campaign 1,2026-01-09,55,715,0.0,2
+SEO - Campaign 2,2026-01-09,34,340,0.0,2
+Email - Campaign 1,2026-01-09,33,363,87.08,0
+Email - Campaign 2,2026-01-09,57,684,94.72,1
+Google Ads - Campaign 1,2026-01-10,52,728,31.89,0
+Google Ads - Campaign 2,2026-01-10,63,756,116.45,1
+Meta Ads - Campaign 1,2026-01-10,37,370,20.95,2
+Meta Ads - Campaign 2,2026-01-10,54,648,44.35,2
+SEO - Campaign 1,2026-01-10,64,512,0.0,2
+SEO - Campaign 2,2026-01-10,43,473,0.0,0
+Email - Campaign 1,2026-01-10,54,486,70.06,2
+Email - Campaign 2,2026-01-10,47,423,81.78,2
+Google Ads - Campaign 1,2026-01-11,53,636,123.9,4
+Google Ads - Campaign 2,2026-01-11,51,510,97.99,5
+Meta Ads - Campaign 1,2026-01-11,48,672,117.17,3
+Meta Ads - Campaign 2,2026-01-11,59,472,140.25,1
+SEO - Campaign 1,2026-01-11,47,517,0.0,2
+SEO - Campaign 2,2026-01-11,46,368,0.0,0
+Email - Campaign 1,2026-01-11,47,517,103.02,1
+Email - Campaign 2,2026-01-11,53,424,65.35,2
+Google Ads - Campaign 1,2026-01-12,56,504,158.33,0
+Google Ads - Campaign 2,2026-01-12,51,510,138.68,2
+Meta Ads - Campaign 1,2026-01-12,58,464,61.27,3
+Meta Ads - Campaign 2,2026-01-12,54,540,38.45,2
+SEO - Campaign 1,2026-01-12,52,572,0.0,0
+SEO - Campaign 2,2026-01-12,56,560,0.0,1
+Email - Campaign 1,2026-01-12,46,414,52.17,1
+Email - Campaign 2,2026-01-12,35,280,27.78,2
+Google Ads - Campaign 1,2026-01-13,54,594,81.03,1
+Google Ads - Campaign 2,2026-01-13,59,649,171.58,5
+Meta Ads - Campaign 1,2026-01-13,51,612,31.03,5
+Meta Ads - Campaign 2,2026-01-13,37,333,108.16,0
+SEO - Campaign 1,2026-01-13,44,352,0.0,2
+SEO - Campaign 2,2026-01-13,52,416,0.0,3
+Email - Campaign 1,2026-01-13,68,748,101.07,1
+Email - Campaign 2,2026-01-13,42,462,61.77,1
+Google Ads - Campaign 1,2026-01-14,51,561,129.26,1
+Google Ads - Campaign 2,2026-01-14,41,410,116.9,2
+Meta Ads - Campaign 1,2026-01-14,52,468,147.25,2
+Meta Ads - Campaign 2,2026-01-14,42,378,102.65,4
+SEO - Campaign 1,2026-01-14,41,574,0.0,1
+SEO - Campaign 2,2026-01-14,58,464,0.0,1
+Email - Campaign 1,2026-01-14,48,624,30.77,2
+Email - Campaign 2,2026-01-14,51,714,141.93,2
+Google Ads - Campaign 1,2026-01-15,44,440,36.21,1
+Google Ads - Campaign 2,2026-01-15,56,784,65.61,2
+Meta Ads - Campaign 1,2026-01-15,50,550,90.02,3
+Meta Ads - Campaign 2,2026-01-15,71,568,176.05,1
+SEO - Campaign 1,2026-01-15,52,520,0.0,3
+SEO - Campaign 2,2026-01-15,52,728,0.0,1
+Email - Campaign 1,2026-01-15,61,854,108.88,1
+Email - Campaign 2,2026-01-15,52,572,149.44,1
+Google Ads - Campaign 1,2026-01-16,58,696,38.6,5
+Google Ads - Campaign 2,2026-01-16,50,500,104.18,0
+Meta Ads - Campaign 1,2026-01-16,41,533,36.07,2
+Meta Ads - Campaign 2,2026-01-16,42,420,64.22,1
+SEO - Campaign 1,2026-01-16,44,396,0.0,1
+SEO - Campaign 2,2026-01-16,42,336,0.0,1
+Email - Campaign 1,2026-01-16,47,423,38.63,2
+Email - Campaign 2,2026-01-16,53,742,142.25,1
+Google Ads - Campaign 1,2026-01-17,38,532,112.69,1
+Google Ads - Campaign 2,2026-01-17,50,450,71.11,2
+Meta Ads - Campaign 1,2026-01-17,31,434,70.78,2
+Meta Ads - Campaign 2,2026-01-17,55,715,146.74,2
+SEO - Campaign 1,2026-01-17,44,528,0.0,0
+SEO - Campaign 2,2026-01-17,51,663,0.0,1
+Email - Campaign 1,2026-01-17,52,624,128.59,1
+Email - Campaign 2,2026-01-17,52,416,98.51,2
+Google Ads - Campaign 1,2026-01-18,47,423,129.21,1
+Google Ads - Campaign 2,2026-01-18,50,600,141.71,0
+Meta Ads - Campaign 1,2026-01-18,42,420,37.87,0
+Meta Ads - Campaign 2,2026-01-18,57,570,148.53,2
+SEO - Campaign 1,2026-01-18,40,440,0.0,3
+SEO - Campaign 2,2026-01-18,50,650,0.0,3
+Email - Campaign 1,2026-01-18,51,561,61.2,0
+Email - Campaign 2,2026-01-18,43,344,78.46,1
+Google Ads - Campaign 1,2026-01-19,45,495,39.87,1
+Google Ads - Campaign 2,2026-01-19,52,624,85.05,0
+Meta Ads - Campaign 1,2026-01-19,57,456,125.61,0
+Meta Ads - Campaign 2,2026-01-19,49,686,121.8,3
+SEO - Campaign 1,2026-01-19,40,320,0.0,0
+SEO - Campaign 2,2026-01-19,47,611,0.0,0
+Email - Campaign 1,2026-01-19,56,616,133.07,0
+Email - Campaign 2,2026-01-19,42,378,90.85,3
+Google Ads - Campaign 1,2026-01-20,46,644,101.54,2
+Google Ads - Campaign 2,2026-01-20,61,854,112.82,2
+Meta Ads - Campaign 1,2026-01-20,44,572,64.23,0
+Meta Ads - Campaign 2,2026-01-20,44,440,69.47,2
+SEO - Campaign 1,2026-01-20,46,644,0.0,3
+SEO - Campaign 2,2026-01-20,50,500,0.0,2
+Email - Campaign 1,2026-01-20,41,574,45.97,0
+Email - Campaign 2,2026-01-20,43,387,74.6,1
+Google Ads - Campaign 1,2026-01-21,57,627,149.12,1
+Google Ads - Campaign 2,2026-01-21,57,627,61.17,3
+Meta Ads - Campaign 1,2026-01-21,51,561,101.88,0
+Meta Ads - Campaign 2,2026-01-21,61,854,91.63,1
+SEO - Campaign 1,2026-01-21,52,676,0.0,0
+SEO - Campaign 2,2026-01-21,45,450,0.0,3
+Email - Campaign 1,2026-01-21,51,714,143.12,0
+Email - Campaign 2,2026-01-21,52,624,81.14,0
+Google Ads - Campaign 1,2026-01-22,40,440,36.55,0
+Google Ads - Campaign 2,2026-01-22,62,868,111.42,1
+Meta Ads - Campaign 1,2026-01-22,35,420,87.75,1
+Meta Ads - Campaign 2,2026-01-22,40,520,106.35,1
+SEO - Campaign 1,2026-01-22,47,376,0.0,2
+SEO - Campaign 2,2026-01-22,44,484,0.0,1
+Email - Campaign 1,2026-01-22,62,806,120.99,1
+Email - Campaign 2,2026-01-22,43,344,126.37,0
+Google Ads - Campaign 1,2026-01-23,48,384,143.62,1
+Google Ads - Campaign 2,2026-01-23,46,460,72.08,1
+Meta Ads - Campaign 1,2026-01-23,49,490,70.77,0
+Meta Ads - Campaign 2,2026-01-23,56,616,101.41,1
+SEO - Campaign 1,2026-01-23,50,550,0.0,0
+SEO - Campaign 2,2026-01-23,47,611,0.0,1
+Email - Campaign 1,2026-01-23,48,672,54.47,2
+Email - Campaign 2,2026-01-23,57,798,121.52,2
+Google Ads - Campaign 1,2026-01-24,52,572,151.14,2
+Google Ads - Campaign 2,2026-01-24,43,602,117.86,2
+Meta Ads - Campaign 1,2026-01-24,55,550,44.38,2
+Meta Ads - Campaign 2,2026-01-24,48,528,122.09,1
+SEO - Campaign 1,2026-01-24,58,812,0.0,1
+SEO - Campaign 2,2026-01-24,53,689,0.0,1
+Email - Campaign 1,2026-01-24,59,649,173.25,0
+Email - Campaign 2,2026-01-24,59,472,161.45,2
+Google Ads - Campaign 1,2026-01-25,50,400,112.36,1
+Google Ads - Campaign 2,2026-01-25,41,369,121.4,3
+Meta Ads - Campaign 1,2026-01-25,54,648,138.05,3
+Meta Ads - Campaign 2,2026-01-25,50,650,75.66,3
+SEO - Campaign 1,2026-01-25,43,516,0.0,0
+SEO - Campaign 2,2026-01-25,45,405,0.0,1
+Email - Campaign 1,2026-01-25,53,477,147.66,1
+Email - Campaign 2,2026-01-25,56,728,77.54,2
+Google Ads - Campaign 1,2026-01-26,38,456,42.31,2
+Google Ads - Campaign 2,2026-01-26,49,490,112.89,4
+Meta Ads - Campaign 1,2026-01-26,48,384,40.2,1
+Meta Ads - Campaign 2,2026-01-26,51,408,132.8,1
+SEO - Campaign 1,2026-01-26,52,468,0.0,1
+SEO - Campaign 2,2026-01-26,47,376,0.0,1
+Email - Campaign 1,2026-01-26,54,540,60.26,0
+Email - Campaign 2,2026-01-26,46,368,133.64,3
+Google Ads - Campaign 1,2026-01-27,49,490,90.88,2
+Google Ads - Campaign 2,2026-01-27,57,741,127.15,5
+Meta Ads - Campaign 1,2026-01-27,61,488,136.21,4
+Meta Ads - Campaign 2,2026-01-27,63,567,120.95,1
+SEO - Campaign 1,2026-01-27,40,400,0.0,3
+SEO - Campaign 2,2026-01-27,49,686,0.0,1
+Email - Campaign 1,2026-01-27,50,500,106.27,2
+Email - Campaign 2,2026-01-27,50,450,91.28,2
+Google Ads - Campaign 1,2026-01-28,36,432,66.55,1
+Google Ads - Campaign 2,2026-01-28,55,605,86.19,1
+Meta Ads - Campaign 1,2026-01-28,51,714,127.34,0
+Meta Ads - Campaign 2,2026-01-28,35,385,20.79,1
+SEO - Campaign 1,2026-01-28,56,784,0.0,2
+SEO - Campaign 2,2026-01-28,55,660,0.0,1
+Email - Campaign 1,2026-01-28,45,360,48.78,1
+Email - Campaign 2,2026-01-28,61,488,47.19,2
+Google Ads - Campaign 1,2026-01-29,56,784,86.46,4
+Google Ads - Campaign 2,2026-01-29,49,539,44.96,0
+Meta Ads - Campaign 1,2026-01-29,48,480,51.67,1
+Meta Ads - Campaign 2,2026-01-29,44,352,46.25,3
+SEO - Campaign 1,2026-01-29,53,424,0.0,4
+SEO - Campaign 2,2026-01-29,48,624,0.0,5
+Email - Campaign 1,2026-01-29,61,732,125.5,2
+Email - Campaign 2,2026-01-29,52,416,37.89,1
+Google Ads - Campaign 1,2026-01-30,45,405,27.49,3
+Google Ads - Campaign 2,2026-01-30,57,570,107.0,1
+Meta Ads - Campaign 1,2026-01-30,44,396,98.53,1
+Meta Ads - Campaign 2,2026-01-30,69,828,188.8,4
+SEO - Campaign 1,2026-01-30,50,600,0.0,3
+SEO - Campaign 2,2026-01-30,51,510,0.0,3
+Email - Campaign 1,2026-01-30,55,605,146.87,3
+Email - Campaign 2,2026-01-30,59,472,152.96,4
+Google Ads - Campaign 1,2026-01-31,39,468,37.95,2
+Google Ads - Campaign 2,2026-01-31,59,531,151.31,3
+Meta Ads - Campaign 1,2026-01-31,44,396,22.12,2
+Meta Ads - Campaign 2,2026-01-31,50,650,60.88,1
+SEO - Campaign 1,2026-01-31,51,459,0.0,2
+SEO - Campaign 2,2026-01-31,51,663,0.0,1
+Email - Campaign 1,2026-01-31,58,696,55.03,0
+Email - Campaign 2,2026-01-31,64,640,42.85,1
+Google Ads - Campaign 1,2026-02-01,56,728,94.3,2
+Google Ads - Campaign 2,2026-02-01,55,770,131.76,0
+Meta Ads - Campaign 1,2026-02-01,57,570,145.18,2
+Meta Ads - Campaign 2,2026-02-01,49,392,146.65,0
+SEO - Campaign 1,2026-02-01,59,708,0.0,2
+SEO - Campaign 2,2026-02-01,44,572,0.0,0
+Email - Campaign 1,2026-02-01,41,451,119.23,2
+Email - Campaign 2,2026-02-01,61,610,177.59,1
+Google Ads - Campaign 1,2026-02-02,60,480,61.97,2
+Google Ads - Campaign 2,2026-02-02,47,517,79.1,0
+Meta Ads - Campaign 1,2026-02-02,59,767,143.21,2
+Meta Ads - Campaign 2,2026-02-02,70,910,115.87,0
+SEO - Campaign 1,2026-02-02,40,440,0.0,1
+SEO - Campaign 2,2026-02-02,44,572,0.0,1
+Email - Campaign 1,2026-02-02,45,540,57.42,0
+Email - Campaign 2,2026-02-02,49,686,72.95,2
+Google Ads - Campaign 1,2026-02-03,45,585,119.26,3
+Google Ads - Campaign 2,2026-02-03,55,605,47.56,5
+Meta Ads - Campaign 1,2026-02-03,41,451,83.86,1
+Meta Ads - Campaign 2,2026-02-03,37,481,100.13,0
+SEO - Campaign 1,2026-02-03,38,342,0.0,4
+SEO - Campaign 2,2026-02-03,43,602,0.0,0
+Email - Campaign 1,2026-02-03,42,420,87.83,3
+Email - Campaign 2,2026-02-03,52,416,105.68,2
+Google Ads - Campaign 1,2026-02-04,59,767,147.75,2
+Google Ads - Campaign 2,2026-02-04,50,650,94.13,3
+Meta Ads - Campaign 1,2026-02-04,49,441,88.98,1
+Meta Ads - Campaign 2,2026-02-04,55,440,116.92,3
+SEO - Campaign 1,2026-02-04,46,644,0.0,1
+SEO - Campaign 2,2026-02-04,33,429,0.0,1
+Email - Campaign 1,2026-02-04,43,602,29.26,0
+Email - Campaign 2,2026-02-04,58,522,168.31,2
+Google Ads - Campaign 1,2026-02-05,48,528,68.52,1
+Google Ads - Campaign 2,2026-02-05,51,459,100.48,2
+Meta Ads - Campaign 1,2026-02-05,50,650,137.59,2
+Meta Ads - Campaign 2,2026-02-05,47,564,78.23,2
+SEO - Campaign 1,2026-02-05,41,533,0.0,0
+SEO - Campaign 2,2026-02-05,50,550,0.0,1
+Email - Campaign 1,2026-02-05,52,728,112.14,0
+Email - Campaign 2,2026-02-05,48,576,54.98,0
+Google Ads - Campaign 1,2026-02-06,52,728,77.57,1
+Google Ads - Campaign 2,2026-02-06,44,396,40.67,1
+Meta Ads - Campaign 1,2026-02-06,54,540,87.67,4
+Meta Ads - Campaign 2,2026-02-06,44,440,63.73,2
+SEO - Campaign 1,2026-02-06,53,424,0.0,2
+SEO - Campaign 2,2026-02-06,49,637,0.0,0
+Email - Campaign 1,2026-02-06,40,560,25.71,0
+Email - Campaign 2,2026-02-06,44,352,31.74,1
+Google Ads - Campaign 1,2026-02-07,32,320,94.93,0
+Google Ads - Campaign 2,2026-02-07,66,924,176.21,1
+Meta Ads - Campaign 1,2026-02-07,50,700,91.53,0
+Meta Ads - Campaign 2,2026-02-07,46,644,46.21,0
+SEO - Campaign 1,2026-02-07,43,516,0.0,1
+SEO - Campaign 2,2026-02-07,59,531,0.0,2
+Email - Campaign 1,2026-02-07,56,616,139.37,2
+Email - Campaign 2,2026-02-07,44,528,65.33,1
+Google Ads - Campaign 1,2026-02-08,47,658,94.58,4
+Google Ads - Campaign 2,2026-02-08,48,576,117.89,1
+Meta Ads - Campaign 1,2026-02-08,40,440,96.52,2
+Meta Ads - Campaign 2,2026-02-08,57,570,142.19,3
+SEO - Campaign 1,2026-02-08,47,658,0.0,0
+SEO - Campaign 2,2026-02-08,46,644,0.0,1
+Email - Campaign 1,2026-02-08,47,376,93.59,1
+Email - Campaign 2,2026-02-08,42,336,100.73,1
+Google Ads - Campaign 1,2026-02-09,59,708,100.18,3
+Google Ads - Campaign 2,2026-02-09,40,560,72.66,1
+Meta Ads - Campaign 1,2026-02-09,52,468,131.69,2
+Meta Ads - Campaign 2,2026-02-09,50,700,78.86,0
+SEO - Campaign 1,2026-02-09,47,564,0.0,1
+SEO - Campaign 2,2026-02-09,39,468,0.0,0
+Email - Campaign 1,2026-02-09,46,414,85.0,2
+Email - Campaign 2,2026-02-09,55,440,84.36,2
+Google Ads - Campaign 1,2026-02-10,57,456,70.58,2
+Google Ads - Campaign 2,2026-02-10,50,600,93.78,2
+Meta Ads - Campaign 1,2026-02-10,66,858,168.17,2
+Meta Ads - Campaign 2,2026-02-10,57,456,53.41,3
+SEO - Campaign 1,2026-02-10,61,549,0.0,1
+SEO - Campaign 2,2026-02-10,46,506,0.0,1
+Email - Campaign 1,2026-02-10,53,424,109.16,1
+Email - Campaign 2,2026-02-10,42,336,112.27,0
+Google Ads - Campaign 1,2026-02-11,39,429,82.09,0
+Google Ads - Campaign 2,2026-02-11,53,424,110.24,1
+Meta Ads - Campaign 1,2026-02-11,54,756,84.81,2
+Meta Ads - Campaign 2,2026-02-11,57,798,76.55,3
+SEO - Campaign 1,2026-02-11,45,495,0.0,0
+SEO - Campaign 2,2026-02-11,46,368,0.0,2
+Email - Campaign 1,2026-02-11,49,539,106.53,1
+Email - Campaign 2,2026-02-11,51,663,108.49,1
+Google Ads - Campaign 1,2026-02-12,49,539,30.91,2
+Google Ads - Campaign 2,2026-02-12,51,663,84.81,2
+Meta Ads - Campaign 1,2026-02-12,67,536,149.08,1
+Meta Ads - Campaign 2,2026-02-12,48,528,122.62,1
+SEO - Campaign 1,2026-02-12,53,689,0.0,1
+SEO - Campaign 2,2026-02-12,48,576,0.0,2
+Email - Campaign 1,2026-02-12,56,616,122.02,2
+Email - Campaign 2,2026-02-12,38,418,31.13,2
+Google Ads - Campaign 1,2026-02-13,54,486,67.92,1
+Google Ads - Campaign 2,2026-02-13,47,376,51.59,1
+Meta Ads - Campaign 1,2026-02-13,48,672,96.07,0
+Meta Ads - Campaign 2,2026-02-13,56,616,107.32,1
+SEO - Campaign 1,2026-02-13,63,567,0.0,2
+SEO - Campaign 2,2026-02-13,54,702,0.0,3
+Email - Campaign 1,2026-02-13,57,684,40.03,0
+Email - Campaign 2,2026-02-13,42,378,121.52,2
+Google Ads - Campaign 1,2026-02-14,57,627,151.34,2
+Google Ads - Campaign 2,2026-02-14,58,754,167.16,0
+Meta Ads - Campaign 1,2026-02-14,47,376,26.53,0
+Meta Ads - Campaign 2,2026-02-14,38,418,30.59,0
+SEO - Campaign 1,2026-02-14,50,550,0.0,3
+SEO - Campaign 2,2026-02-14,52,728,0.0,0
+Email - Campaign 1,2026-02-14,56,560,36.14,2
+Email - Campaign 2,2026-02-14,52,416,81.94,0
+Google Ads - Campaign 1,2026-02-15,40,440,30.1,1
+Google Ads - Campaign 2,2026-02-15,53,583,57.33,1
+Meta Ads - Campaign 1,2026-02-15,53,742,82.96,3
+Meta Ads - Campaign 2,2026-02-15,48,480,66.51,1
+SEO - Campaign 1,2026-02-15,58,754,0.0,4
+SEO - Campaign 2,2026-02-15,44,528,0.0,0
+Email - Campaign 1,2026-02-15,45,630,37.92,2
+Email - Campaign 2,2026-02-15,46,552,95.37,2
+Google Ads - Campaign 1,2026-02-16,68,748,52.66,2
+Google Ads - Campaign 2,2026-02-16,50,650,43.65,0
+Meta Ads - Campaign 1,2026-02-16,46,368,77.74,2
+Meta Ads - Campaign 2,2026-02-16,59,472,170.54,4
+SEO - Campaign 1,2026-02-16,56,448,0.0,3
+SEO - Campaign 2,2026-02-16,37,333,0.0,0
+Email - Campaign 1,2026-02-16,61,549,127.67,1
+Email - Campaign 2,2026-02-16,49,686,133.45,1
+Google Ads - Campaign 1,2026-02-17,41,492,73.0,0
+Google Ads - Campaign 2,2026-02-17,53,424,40.46,4
+Meta Ads - Campaign 1,2026-02-17,55,550,68.27,4
+Meta Ads - Campaign 2,2026-02-17,47,611,88.08,2
+SEO - Campaign 1,2026-02-17,45,495,0.0,3
+SEO - Campaign 2,2026-02-17,56,448,0.0,1
+Email - Campaign 1,2026-02-17,43,559,87.61,0
+Email - Campaign 2,2026-02-17,68,612,186.29,3
+Google Ads - Campaign 1,2026-02-18,52,572,123.25,0
+Google Ads - Campaign 2,2026-02-18,33,264,65.88,1
+Meta Ads - Campaign 1,2026-02-18,49,637,99.59,1
+Meta Ads - Campaign 2,2026-02-18,63,504,109.63,2
+SEO - Campaign 1,2026-02-18,45,630,0.0,3
+SEO - Campaign 2,2026-02-18,45,540,0.0,2
+Email - Campaign 1,2026-02-18,49,686,113.74,0
+Email - Campaign 2,2026-02-18,35,280,83.4,3
+Google Ads - Campaign 1,2026-02-19,33,462,27.37,0
+Google Ads - Campaign 2,2026-02-19,41,492,62.88,1
+Meta Ads - Campaign 1,2026-02-19,50,600,95.63,0
+Meta Ads - Campaign 2,2026-02-19,52,468,82.39,2
+SEO - Campaign 1,2026-02-19,57,570,0.0,5
+SEO - Campaign 2,2026-02-19,39,351,0.0,1
+Email - Campaign 1,2026-02-19,46,460,116.74,0
+Email - Campaign 2,2026-02-19,47,611,88.62,3
+Google Ads - Campaign 1,2026-02-20,56,784,133.88,1
+Google Ads - Campaign 2,2026-02-20,47,611,108.34,2
+Meta Ads - Campaign 1,2026-02-20,48,576,107.47,0
+Meta Ads - Campaign 2,2026-02-20,42,336,61.71,1
+SEO - Campaign 1,2026-02-20,50,600,0.0,2
+SEO - Campaign 2,2026-02-20,51,663,0.0,1
+Email - Campaign 1,2026-02-20,52,520,28.98,1
+Email - Campaign 2,2026-02-20,37,481,49.42,4
+Google Ads - Campaign 1,2026-02-21,43,516,77.43,0
+Google Ads - Campaign 2,2026-02-21,46,506,33.19,0
+Meta Ads - Campaign 1,2026-02-21,57,741,133.04,2
+Meta Ads - Campaign 2,2026-02-21,48,480,118.28,2
+SEO - Campaign 1,2026-02-21,43,387,0.0,1
+SEO - Campaign 2,2026-02-21,26,338,0.0,1
+Email - Campaign 1,2026-02-21,56,504,147.38,3
+Email - Campaign 2,2026-02-21,58,522,145.38,4
+Google Ads - Campaign 1,2026-02-22,54,756,33.73,1
+Google Ads - Campaign 2,2026-02-22,49,637,118.28,1
+Meta Ads - Campaign 1,2026-02-22,41,328,115.07,3
+Meta Ads - Campaign 2,2026-02-22,37,407,44.6,0
+SEO - Campaign 1,2026-02-22,45,405,0.0,1
+SEO - Campaign 2,2026-02-22,56,672,0.0,1
+Email - Campaign 1,2026-02-22,42,378,25.88,3
+Email - Campaign 2,2026-02-22,41,574,62.64,0
+Google Ads - Campaign 1,2026-02-23,44,616,82.32,3
+Google Ads - Campaign 2,2026-02-23,48,624,118.53,2
+Meta Ads - Campaign 1,2026-02-23,53,530,101.41,1
+Meta Ads - Campaign 2,2026-02-23,43,602,98.9,0
+SEO - Campaign 1,2026-02-23,58,464,0.0,5
+SEO - Campaign 2,2026-02-23,44,440,0.0,0
+Email - Campaign 1,2026-02-23,54,702,38.03,3
+Email - Campaign 2,2026-02-23,48,384,103.7,2
+Google Ads - Campaign 1,2026-02-24,49,637,104.24,1
+Google Ads - Campaign 2,2026-02-24,56,560,77.84,0
+Meta Ads - Campaign 1,2026-02-24,56,616,64.21,2
+Meta Ads - Campaign 2,2026-02-24,56,672,30.51,2
+SEO - Campaign 1,2026-02-24,42,504,0.0,1
+SEO - Campaign 2,2026-02-24,49,392,0.0,1
+Email - Campaign 1,2026-02-24,57,570,92.87,1
+Email - Campaign 2,2026-02-24,43,473,52.37,2
+Google Ads - Campaign 1,2026-02-25,45,630,94.8,3
+Google Ads - Campaign 2,2026-02-25,51,561,114.23,0
+Meta Ads - Campaign 1,2026-02-25,52,520,142.63,5
+Meta Ads - Campaign 2,2026-02-25,41,492,39.38,2
+SEO - Campaign 1,2026-02-25,57,741,0.0,2
+SEO - Campaign 2,2026-02-25,57,456,0.0,1
+Email - Campaign 1,2026-02-25,53,742,143.36,2
+Email - Campaign 2,2026-02-25,41,451,30.04,2
+Google Ads - Campaign 1,2026-02-26,60,720,139.72,1
+Google Ads - Campaign 2,2026-02-26,46,506,35.74,1
+Meta Ads - Campaign 1,2026-02-26,49,588,80.76,1
+Meta Ads - Campaign 2,2026-02-26,50,450,39.12,0
+SEO - Campaign 1,2026-02-26,44,352,0.0,2
+SEO - Campaign 2,2026-02-26,43,602,0.0,1
+Email - Campaign 1,2026-02-26,47,658,78.88,1
+Email - Campaign 2,2026-02-26,39,546,19.87,0
+Google Ads - Campaign 1,2026-02-27,59,826,152.96,0
+Google Ads - Campaign 2,2026-02-27,47,658,48.82,0
+Meta Ads - Campaign 1,2026-02-27,59,708,145.8,3
+Meta Ads - Campaign 2,2026-02-27,53,530,26.52,0
+SEO - Campaign 1,2026-02-27,49,539,0.0,1
+SEO - Campaign 2,2026-02-27,41,574,0.0,0
+Email - Campaign 1,2026-02-27,48,432,112.79,4
+Email - Campaign 2,2026-02-27,41,410,120.21,2
+Google Ads - Campaign 1,2026-02-28,57,798,165.7,2
+Google Ads - Campaign 2,2026-02-28,53,583,110.65,0
+Meta Ads - Campaign 1,2026-02-28,54,702,40.03,0
+Meta Ads - Campaign 2,2026-02-28,51,612,130.63,1
+SEO - Campaign 1,2026-02-28,46,506,0.0,0
+SEO - Campaign 2,2026-02-28,46,644,0.0,2
+Email - Campaign 1,2026-02-28,51,561,61.87,2
+Email - Campaign 2,2026-02-28,50,500,128.92,1
+Google Ads - Campaign 1,2026-03-01,55,550,31.99,3
+Google Ads - Campaign 2,2026-03-01,60,840,107.62,0
+Meta Ads - Campaign 1,2026-03-01,61,610,51.47,4
+Meta Ads - Campaign 2,2026-03-01,49,539,101.84,2
+SEO - Campaign 1,2026-03-01,53,583,0.0,0
+SEO - Campaign 2,2026-03-01,48,624,0.0,1
+Email - Campaign 1,2026-03-01,45,630,133.18,1
+Email - Campaign 2,2026-03-01,60,780,35.96,0
+Google Ads - Campaign 1,2026-03-02,41,492,120.08,1
+Google Ads - Campaign 2,2026-03-02,53,583,85.79,1
+Meta Ads - Campaign 1,2026-03-02,50,650,25.96,3
+Meta Ads - Campaign 2,2026-03-02,58,696,96.11,2
+SEO - Campaign 1,2026-03-02,50,650,0.0,1
+SEO - Campaign 2,2026-03-02,57,456,0.0,0
+Email - Campaign 1,2026-03-02,47,564,126.22,2
+Email - Campaign 2,2026-03-02,33,396,93.18,1
+Google Ads - Campaign 1,2026-03-03,48,576,132.91,1
+Google Ads - Campaign 2,2026-03-03,54,594,123.99,3
+Meta Ads - Campaign 1,2026-03-03,34,476,22.06,2
+Meta Ads - Campaign 2,2026-03-03,45,495,112.54,1
+SEO - Campaign 1,2026-03-03,40,440,0.0,3
+SEO - Campaign 2,2026-03-03,48,384,0.0,3
+Email - Campaign 1,2026-03-03,54,540,75.86,2
+Email - Campaign 2,2026-03-03,50,700,39.47,3
+Google Ads - Campaign 1,2026-03-04,55,715,151.59,3
+Google Ads - Campaign 2,2026-03-04,54,756,87.6,2
+Meta Ads - Campaign 1,2026-03-04,33,462,62.59,1
+Meta Ads - Campaign 2,2026-03-04,57,570,83.7,1
+SEO - Campaign 1,2026-03-04,54,648,0.0,3
+SEO - Campaign 2,2026-03-04,52,520,0.0,1
+Email - Campaign 1,2026-03-04,52,520,38.85,2
+Email - Campaign 2,2026-03-04,47,376,106.41,1
+Google Ads - Campaign 1,2026-03-05,50,600,105.72,3
+Google Ads - Campaign 2,2026-03-05,47,517,26.49,1
+Meta Ads - Campaign 1,2026-03-05,57,684,42.93,2
+Meta Ads - Campaign 2,2026-03-05,58,812,110.15,2
+SEO - Campaign 1,2026-03-05,41,410,0.0,1
+SEO - Campaign 2,2026-03-05,41,533,0.0,0
+Email - Campaign 1,2026-03-05,48,480,26.8,0
+Email - Campaign 2,2026-03-05,50,600,129.44,4
+Google Ads - Campaign 1,2026-03-06,46,506,92.34,1
+Google Ads - Campaign 2,2026-03-06,38,304,33.4,1
+Meta Ads - Campaign 1,2026-03-06,47,376,41.61,1
+Meta Ads - Campaign 2,2026-03-06,42,420,109.05,1
+SEO - Campaign 1,2026-03-06,45,360,0.0,1
+SEO - Campaign 2,2026-03-06,54,540,0.0,2
+Email - Campaign 1,2026-03-06,47,470,39.86,0
+Email - Campaign 2,2026-03-06,57,570,139.99,3
+Google Ads - Campaign 1,2026-03-07,53,636,108.74,2
+Google Ads - Campaign 2,2026-03-07,54,540,44.87,3
+Meta Ads - Campaign 1,2026-03-07,55,660,147.12,2
+Meta Ads - Campaign 2,2026-03-07,51,408,112.3,3
+SEO - Campaign 1,2026-03-07,65,650,0.0,2
+SEO - Campaign 2,2026-03-07,39,507,0.0,1
+Email - Campaign 1,2026-03-07,47,658,47.38,1
+Email - Campaign 2,2026-03-07,50,500,97.16,3
+Google Ads - Campaign 1,2026-03-08,49,686,98.26,2
+Google Ads - Campaign 2,2026-03-08,67,737,51.8,0
+Meta Ads - Campaign 1,2026-03-08,53,742,58.35,3
+Meta Ads - Campaign 2,2026-03-08,49,686,101.26,2
+SEO - Campaign 1,2026-03-08,50,600,0.0,1
+SEO - Campaign 2,2026-03-08,57,741,0.0,4
+Email - Campaign 1,2026-03-08,54,756,66.77,0
+Email - Campaign 2,2026-03-08,47,564,31.61,2
+Google Ads - Campaign 1,2026-03-09,56,616,135.26,2
+Google Ads - Campaign 2,2026-03-09,39,507,90.01,1
+Meta Ads - Campaign 1,2026-03-09,48,480,65.86,2
+Meta Ads - Campaign 2,2026-03-09,52,520,26.79,1
+SEO - Campaign 1,2026-03-09,46,644,0.0,3
+SEO - Campaign 2,2026-03-09,44,396,0.0,0
+Email - Campaign 1,2026-03-09,48,672,51.89,1
+Email - Campaign 2,2026-03-09,45,585,52.44,1
+Google Ads - Campaign 1,2026-03-10,49,588,102.96,0
+Google Ads - Campaign 2,2026-03-10,43,602,103.16,3
+Meta Ads - Campaign 1,2026-03-10,50,650,98.23,0
+Meta Ads - Campaign 2,2026-03-10,54,594,123.38,1
+SEO - Campaign 1,2026-03-10,45,495,0.0,0
+SEO - Campaign 2,2026-03-10,56,784,0.0,0
+Email - Campaign 1,2026-03-10,55,440,82.84,0
+Email - Campaign 2,2026-03-10,50,650,59.52,3
+Google Ads - Campaign 1,2026-03-11,52,572,70.25,2
+Google Ads - Campaign 2,2026-03-11,46,460,64.43,1
+Meta Ads - Campaign 1,2026-03-11,59,590,163.31,1
+Meta Ads - Campaign 2,2026-03-11,61,732,177.52,0
+SEO - Campaign 1,2026-03-11,63,882,0.0,0
+SEO - Campaign 2,2026-03-11,42,504,0.0,0
+Email - Campaign 1,2026-03-11,45,360,98.56,1
+Email - Campaign 2,2026-03-11,39,351,82.3,0
+Google Ads - Campaign 1,2026-03-12,50,500,133.23,1
+Google Ads - Campaign 2,2026-03-12,43,473,61.25,2
+Meta Ads - Campaign 1,2026-03-12,43,387,66.2,0
+Meta Ads - Campaign 2,2026-03-12,53,424,143.12,3
+SEO - Campaign 1,2026-03-12,56,448,0.0,0
+SEO - Campaign 2,2026-03-12,53,583,0.0,4
+Email - Campaign 1,2026-03-12,49,490,34.95,1
+Email - Campaign 2,2026-03-12,35,385,62.64,0
+Google Ads - Campaign 1,2026-03-13,54,486,149.99,0
+Google Ads - Campaign 2,2026-03-13,40,560,69.29,1
+Meta Ads - Campaign 1,2026-03-13,61,488,141.04,4
+Meta Ads - Campaign 2,2026-03-13,50,550,63.98,1
+SEO - Campaign 1,2026-03-13,44,484,0.0,0
+SEO - Campaign 2,2026-03-13,57,741,0.0,1
+Email - Campaign 1,2026-03-13,46,644,107.99,1
+Email - Campaign 2,2026-03-13,47,517,58.73,1
+Google Ads - Campaign 1,2026-03-14,60,480,112.04,2
+Google Ads - Campaign 2,2026-03-14,45,450,39.64,2
+Meta Ads - Campaign 1,2026-03-14,64,704,107.74,2
+Meta Ads - Campaign 2,2026-03-14,69,690,97.58,3
+SEO - Campaign 1,2026-03-14,52,416,0.0,2
+SEO - Campaign 2,2026-03-14,52,624,0.0,1
+Email - Campaign 1,2026-03-14,61,488,128.53,1
+Email - Campaign 2,2026-03-14,62,868,103.85,0
+Google Ads - Campaign 1,2026-03-15,54,594,152.63,2
+Google Ads - Campaign 2,2026-03-15,49,490,141.85,2
+Meta Ads - Campaign 1,2026-03-15,47,611,136.57,1
+Meta Ads - Campaign 2,2026-03-15,57,684,106.39,1
+SEO - Campaign 1,2026-03-15,51,561,0.0,3
+SEO - Campaign 2,2026-03-15,54,540,0.0,3
+Email - Campaign 1,2026-03-15,59,649,171.19,4
+Email - Campaign 2,2026-03-15,45,630,89.28,0
+Google Ads - Campaign 1,2026-03-16,58,464,80.48,4
+Google Ads - Campaign 2,2026-03-16,56,616,94.77,1
+Meta Ads - Campaign 1,2026-03-16,53,477,48.06,2
+Meta Ads - Campaign 2,2026-03-16,50,600,26.13,1
+SEO - Campaign 1,2026-03-16,51,612,0.0,1
+SEO - Campaign 2,2026-03-16,46,460,0.0,1
+Email - Campaign 1,2026-03-16,44,528,120.41,0
+Email - Campaign 2,2026-03-16,45,450,125.95,1
+Google Ads - Campaign 1,2026-03-17,50,550,104.43,2
+Google Ads - Campaign 2,2026-03-17,52,572,128.38,1
+Meta Ads - Campaign 1,2026-03-17,51,408,133.53,0
+Meta Ads - Campaign 2,2026-03-17,62,620,109.42,3
+SEO - Campaign 1,2026-03-17,41,328,0.0,3
+SEO - Campaign 2,2026-03-17,52,520,0.0,1
+Email - Campaign 1,2026-03-17,46,644,39.54,3
+Email - Campaign 2,2026-03-17,48,672,81.16,1
+Google Ads - Campaign 1,2026-03-18,43,602,53.29,0
+Google Ads - Campaign 2,2026-03-18,53,530,65.62,1
+Meta Ads - Campaign 1,2026-03-18,48,576,124.3,2
+Meta Ads - Campaign 2,2026-03-18,56,504,143.47,3
+SEO - Campaign 1,2026-03-18,51,714,0.0,3
+SEO - Campaign 2,2026-03-18,48,384,0.0,0
+Email - Campaign 1,2026-03-18,48,432,30.56,0
+Email - Campaign 2,2026-03-18,43,430,68.53,0
+Google Ads - Campaign 1,2026-03-19,43,473,100.16,2
+Google Ads - Campaign 2,2026-03-19,58,754,72.92,3
+Meta Ads - Campaign 1,2026-03-19,44,440,35.79,6
+Meta Ads - Campaign 2,2026-03-19,48,624,115.5,2
+SEO - Campaign 1,2026-03-19,53,742,0.0,2
+SEO - Campaign 2,2026-03-19,50,450,0.0,1
+Email - Campaign 1,2026-03-19,47,470,97.78,2
+Email - Campaign 2,2026-03-19,39,429,69.12,4
+Google Ads - Campaign 1,2026-03-20,49,686,46.57,1
+Google Ads - Campaign 2,2026-03-20,62,806,143.99,1
+Meta Ads - Campaign 1,2026-03-20,29,377,24.81,0
+Meta Ads - Campaign 2,2026-03-20,54,756,102.88,2
+SEO - Campaign 1,2026-03-20,46,506,0.0,2
+SEO - Campaign 2,2026-03-20,55,550,0.0,3
+Email - Campaign 1,2026-03-20,40,360,81.59,1
+Email - Campaign 2,2026-03-20,44,352,111.88,1
+Google Ads - Campaign 1,2026-03-21,51,663,64.88,0
+Google Ads - Campaign 2,2026-03-21,66,528,178.09,1
+Meta Ads - Campaign 1,2026-03-21,46,460,123.21,1
+Meta Ads - Campaign 2,2026-03-21,37,333,105.01,2
+SEO - Campaign 1,2026-03-21,61,671,0.0,1
+SEO - Campaign 2,2026-03-21,43,559,0.0,1
+Email - Campaign 1,2026-03-21,55,550,36.9,1
+Email - Campaign 2,2026-03-21,38,380,83.37,0
+Google Ads - Campaign 1,2026-03-22,47,611,98.9,2
+Google Ads - Campaign 2,2026-03-22,40,480,98.53,0
+Meta Ads - Campaign 1,2026-03-22,45,360,71.1,0
+Meta Ads - Campaign 2,2026-03-22,49,441,37.13,0
+SEO - Campaign 1,2026-03-22,48,432,0.0,2
+SEO - Campaign 2,2026-03-22,43,602,0.0,0
+Email - Campaign 1,2026-03-22,43,473,50.37,1
+Email - Campaign 2,2026-03-22,54,540,107.37,0
+Google Ads - Campaign 1,2026-03-23,66,726,48.19,2
+Google Ads - Campaign 2,2026-03-23,39,507,82.06,3
+Meta Ads - Campaign 1,2026-03-23,44,572,99.73,1
+Meta Ads - Campaign 2,2026-03-23,45,360,119.94,0
+SEO - Campaign 1,2026-03-23,49,490,0.0,2
+SEO - Campaign 2,2026-03-23,60,780,0.0,2
+Email - Campaign 1,2026-03-23,47,564,97.23,1
+Email - Campaign 2,2026-03-23,44,484,127.33,2
+Google Ads - Campaign 1,2026-03-24,52,676,53.91,0
+Google Ads - Campaign 2,2026-03-24,39,429,108.67,2
+Meta Ads - Campaign 1,2026-03-24,57,570,90.97,2
+Meta Ads - Campaign 2,2026-03-24,52,572,57.46,0
+SEO - Campaign 1,2026-03-24,53,742,0.0,2
+SEO - Campaign 2,2026-03-24,43,387,0.0,0
+Email - Campaign 1,2026-03-24,49,490,98.82,2
+Email - Campaign 2,2026-03-24,47,658,127.48,2
+Google Ads - Campaign 1,2026-03-25,63,567,63.04,2
+Google Ads - Campaign 2,2026-03-25,45,540,70.59,1
+Meta Ads - Campaign 1,2026-03-25,51,663,72.48,3
+Meta Ads - Campaign 2,2026-03-25,48,624,100.55,1
+SEO - Campaign 1,2026-03-25,49,588,0.0,2
+SEO - Campaign 2,2026-03-25,48,480,0.0,2
+Email - Campaign 1,2026-03-25,43,430,65.32,1
+Email - Campaign 2,2026-03-25,63,819,151.9,0
+Google Ads - Campaign 1,2026-03-26,48,576,37.43,0
+Google Ads - Campaign 2,2026-03-26,43,516,116.28,2
+Meta Ads - Campaign 1,2026-03-26,49,539,25.48,1
+Meta Ads - Campaign 2,2026-03-26,50,700,69.61,0
+SEO - Campaign 1,2026-03-26,59,767,0.0,4
+SEO - Campaign 2,2026-03-26,66,594,0.0,1
+Email - Campaign 1,2026-03-26,45,540,58.34,1
+Email - Campaign 2,2026-03-26,51,663,50.22,2
+Google Ads - Campaign 1,2026-03-27,60,780,99.28,1
+Google Ads - Campaign 2,2026-03-27,52,624,113.57,2
+Meta Ads - Campaign 1,2026-03-27,48,672,75.55,0
+Meta Ads - Campaign 2,2026-03-27,55,715,98.3,2
+SEO - Campaign 1,2026-03-27,47,423,0.0,3
+SEO - Campaign 2,2026-03-27,40,400,0.0,0
+Email - Campaign 1,2026-03-27,50,700,55.67,1
+Email - Campaign 2,2026-03-27,45,450,106.81,1
+Google Ads - Campaign 1,2026-03-28,48,432,88.91,1
+Google Ads - Campaign 2,2026-03-28,56,672,73.86,3
+Meta Ads - Campaign 1,2026-03-28,53,424,41.79,1
+Meta Ads - Campaign 2,2026-03-28,63,504,185.92,1
+SEO - Campaign 1,2026-03-28,48,672,0.0,2
+SEO - Campaign 2,2026-03-28,52,520,0.0,1
+Email - Campaign 1,2026-03-28,51,561,113.3,3
+Email - Campaign 2,2026-03-28,55,660,130.99,3
+Google Ads - Campaign 1,2026-03-29,58,464,77.38,2
+Google Ads - Campaign 2,2026-03-29,50,700,75.57,1
+Meta Ads - Campaign 1,2026-03-29,37,370,92.83,0
+Meta Ads - Campaign 2,2026-03-29,43,602,73.02,1
+SEO - Campaign 1,2026-03-29,71,568,0.0,6
+SEO - Campaign 2,2026-03-29,49,637,0.0,1
+Email - Campaign 1,2026-03-29,46,460,63.31,2
+Email - Campaign 2,2026-03-29,47,658,28.83,2
+Google Ads - Campaign 1,2026-03-30,53,583,27.2,0
+Google Ads - Campaign 2,2026-03-30,39,312,76.15,1
+Meta Ads - Campaign 1,2026-03-30,56,504,140.42,2
+Meta Ads - Campaign 2,2026-03-30,55,770,118.59,3
+SEO - Campaign 1,2026-03-30,56,504,0.0,3
+SEO - Campaign 2,2026-03-30,52,468,0.0,1
+Email - Campaign 1,2026-03-30,48,480,70.35,0
+Email - Campaign 2,2026-03-30,52,468,138.92,1
+Google Ads - Campaign 1,2026-03-31,43,473,96.34,1
+Google Ads - Campaign 2,2026-03-31,49,637,77.31,2
+Meta Ads - Campaign 1,2026-03-31,45,360,94.09,1
+Meta Ads - Campaign 2,2026-03-31,58,580,69.38,2
+SEO - Campaign 1,2026-03-31,45,630,0.0,2
+SEO - Campaign 2,2026-03-31,56,616,0.0,1
+Email - Campaign 1,2026-03-31,49,637,56.3,1
+Email - Campaign 2,2026-03-31,60,780,124.51,2
